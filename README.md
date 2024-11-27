@@ -43,10 +43,6 @@ This Chrome extension allows users to pick colors from any webpage using the Eye
 3. Test thoroughly in Chrome browser.
 4. Submit a pull request with a detailed description of changes.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Acknowledgments
 
 - EyeDropper API documentation from Chrome Developers.
